@@ -1,0 +1,43 @@
+# Start New Language till interview
+
++----------------------------------------------+
+| Dev environment, Language style              |
++----------------------------------------------+
+| Simple data type                             |
+|(string, int, boolean, list, slice, tuple)    |
++----------------------------------------------+
+| Data Structure                               |
+| (dictionary/map/hashtable, linked list, ...) |
++----------------------------------------------+
+| Condition and loop                           |
++----------------------------------------------+
+| Function, Method, Class, Struct, Module      |
++----------------------------------------------+
+| Algorithem, Big O                            |
+| Prefix Sum, Graph , ...                      |
++----------------------------------------------+
+| Styling                                      |
++----------------------------------------------+
+
+
+# Advanced outline for Python
+- Type hint
+- work with file
+- work with json
+- working with API
+- decorator
+- running http handler
+
+# Beyond the basic
+
++----------------------------------------------+
+| Concurrency
++----------------------------------------------+
+| Working with API
++----------------------------------------------+
+| Creating Rest API 
++----------------------------------------------+
+| Working with files
++----------------------------------------------+
+| ...
++----------------------------------------------+
