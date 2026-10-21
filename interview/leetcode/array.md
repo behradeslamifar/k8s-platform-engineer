@@ -1,12 +1,11 @@
 # Array 
-https://leetcode.com/problems/two-sum/description/
+Leetcode question: https://leetcode.com/problems/two-sum/
 
 ## Answer 1
+Time complexity: O(n^2)
+
 ```python
 #!/usr/bin/env python3
-
-# Leetcode question: https://leetcode.com/problems/two-sum/
-# Time complexity: O(n^2)
 
 nums = [2,7,11,14]
 target = 9
@@ -22,12 +21,10 @@ print(result)
 ```
 
 ## Answer 2
+Time complexity: O(n)
 
 ```python
 #!/usr/bin/env python3
-
-# Leetcode question: https://leetcode.com/problems/two-sum/
-# Time complexity: O(n)
 
 nums = [2,7,11,13]
 target = 15

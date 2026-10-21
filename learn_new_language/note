@@ -8,10 +8,13 @@
 +----------------------------------------------+
 | Data Structure                               |
 | (dictionary/map/hashtable, linked list, ...) |
+| store collection of data (Built-in data type |
+|    List, Tuple, Set, dictionary)             |
 +----------------------------------------------+
 | Condition and loop                           |
 +----------------------------------------------+
-| Function, Method, Class, Struct, Module      |
+| Function, Class (Attribute, Methods, Dunder  |
+|    Methods) , Struct, Module                 |
 +----------------------------------------------+
 | Algorithem, Big O                            |
 | Prefix Sum, Graph , ...                      |
@@ -27,6 +30,13 @@
 - working with API
 - decorator
 - running http handler
+- asyncio
+- pandas, fastapi
+- framework: streamlit,  
+
+# Advanced subjects for Go
+- mutx, channel, context
+
 
 # Beyond the basic
 

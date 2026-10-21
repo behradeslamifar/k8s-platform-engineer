@@ -3,6 +3,11 @@ Build career to become Kubernetes Platform/Control Plane Engineer
 
 For linkedin: Recently I have been rebuilding my deep Kubernetes platform engineering skills
 
+## Concepts
+- [cloud.google.com: How to Become a Platform Engineer](https://cloud.google.com/blog/products/application-development/how-to-become-a-platform-engineer)
+- [Golden Paths](https://cloud.google.com/blog/products/application-development/golden-paths-for-engineering-execution-consistency)
+- [cncf.io: Platfroms White Paper](https://tag-app-delivery.cncf.io/whitepapers/platforms/)
+
 ## Phase 1: Programming (8 weeks)
 Python Resources
 - Python Crash Course - Third Edition
